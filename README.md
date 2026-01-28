@@ -116,7 +116,7 @@ This project is open source and available under the MIT License.
 ## Images
 ![image alt](https://github.com/amineaoudia/carpooling_app/blob/2b816b596e70079c161248ae266fa25315de6c95/Images/0.png)
 ![image alt](https://github.com/amineaoudia/carpooling_app/blob/2b816b596e70079c161248ae266fa25315de6c95/Images/1.png)
-![image alt](https://github.com/amineaoudia/carpooling_app/blob/2b816b596e70079c161248ae266fa25315de6c95/Images/2.png)
+![image alt](https://github.com/amineaoudia/carpooling_app/blob/99287ae39dfceb19545f905bedcf453750cacbd6/Images/2.png)
 ![image alt](https://github.com/amineaoudia/carpooling_app/blob/2b816b596e70079c161248ae266fa25315de6c95/Images/3.png)
 ![image alt](https://github.com/amineaoudia/carpooling_app/blob/2b816b596e70079c161248ae266fa25315de6c95/Images/4.png)
 ![image alt](https://github.com/amineaoudia/carpooling_app/blob/2b816b596e70079c161248ae266fa25315de6c95/Images/5.png)
